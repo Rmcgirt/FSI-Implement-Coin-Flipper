@@ -1,5 +1,5 @@
 // TODO: Declare any global variables we need
-
+var numHeads
 
 document.addEventListener('DOMContentLoaded', function () {
     // This is just a sanity check to make sure your JavaScript script is getting loaded
